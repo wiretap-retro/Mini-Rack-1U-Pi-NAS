@@ -20,7 +20,7 @@ The operating system I am using is OpenMediaVault (OMV), booting from a USB stic
 * 3Dvid.mp4 -- a short screen capture video of the project to show what it looks like
 
 ## Parts Needed
-Below is a list of the exact parts I used, but you may substitute for different parts. You may need to edit the CAD model if your chosen parts are different sizes or have different mounting locations.
+Below is a list of the exact parts I used, but you may substitute for different parts. You may need to edit the CAD model if your chosen parts are different sizes or have different mounting locations. Non-affiliate Amazon links for product reference. Prices may be better elsewhere.
 * Raspberry Pi 5 - https://www.microcenter.com/product/673712/raspberry-pi-5
 * Waveshare PoE M.2 HAT+ - https://www.amazon.com/dp/B0DGL3KVJT
 * Xiwai NGFF M-key NVMe SSD Extender Card - https://www.amazon.com/dp/B0DHVM6CMN
