@@ -34,4 +34,5 @@ Below is a list of the exact parts I used, but you may substitute for different 
 
 ## License
 The Unlicense - see license file in this repository. \
+\
 The files "Chieftec CMR-625.stp", "RaspberryPi5.step", and "PiOLED.STEP" are not my own creation and were only used for 3D modeling dimensions and layout. They were found on GrabCAD and each model shall be attributed to their respective creator. These models as they were used in this project were not modified in any way.
