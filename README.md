@@ -9,6 +9,7 @@ For my use, the Raspberry Pi 5 is powered from a PoE+ switch. The 5.25" bay hot 
 The operating system I am using is OpenMediaVault (OMV), booting from a USB stick. You are free to use your operating system of choice. 
 
 ## Picture
+![Front View](front.jpg)
 
 ## Files
 * 1U-Pi-NAS-5.25-bay.FCStd -- main FreeCAD project file
