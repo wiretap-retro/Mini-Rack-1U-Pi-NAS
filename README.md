@@ -10,6 +10,9 @@ The operating system I am using is OpenMediaVault (OMV), booting from a USB stic
 
 ## Picture
 ![Front View](front.jpg)
+/
+![Slim Cables](PXL_20251115_195947786.jpg)
+Slim Cables
 
 ## Files
 * 1U-Pi-NAS-5.25-bay.FCStd -- main FreeCAD project file
