@@ -12,7 +12,7 @@ The operating system I am using is OpenMediaVault (OMV), booting from a USB stic
 ![Front View](front.jpg)
 
 ![Slim Cables](PXL_20251115_195947786.jpg)
-Slim SATA cables, optional.
+Slim SATA cables, optional, to tidy up the wiring better.
 
 ## Files
 * 1U-Pi-NAS-5.25-bay.FCStd -- main FreeCAD project file
@@ -34,7 +34,7 @@ Below is a list of the exact parts I used, but you may substitute for different 
 * 1x M3x4mm screw to mount the OLED display
 * 6x Male to Female DuPont style jumpers to hook up the OLED display
 * Zip ties or wire ties for SATA cable routing
-* Optional: Slim SATA Cables - https://a.co/d/gHihOGg
+* Optional: Slim SATA Cables - https://www.amazon.com/dp/B09Q359C7Z
 
 ## License
 The Unlicense - see license file in this repository. \
